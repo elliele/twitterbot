@@ -1,6 +1,6 @@
 # Twitter Bot
 
-A twitter bot program that automatically that query for specific keyword and retweet to user.
+A twitter bot program that automatically that query for specific keyword and retweet to client.
 
 ## Tweepy: Twitter for Python
 
